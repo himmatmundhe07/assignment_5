@@ -1,2 +1,2 @@
 addded feature to collect user information
-addded sign-up page
+addded sign-up page.
